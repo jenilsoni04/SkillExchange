@@ -109,18 +109,6 @@ We welcome contributions! Please open an issue to discuss your idea or submit a 
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📬 Contact
-
-For questions, suggestions, or support, please open an issue or contact the maintainer:
-
-- [jenilsoni04 on GitHub](https://github.com/jenilsoni04)
-
----
 
 Happy skill swapping!
+
